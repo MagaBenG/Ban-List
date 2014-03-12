@@ -1,0 +1,6 @@
+name: Ban List
+author: MagaBenG
+version: 1
+description: A List Of All Your Banned Players!
+main: BanList.banlist
+commands:
